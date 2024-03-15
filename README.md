@@ -1,2 +1,2 @@
 # git-demo
-Author - Sanchita Behera
+Author - Sanchita (Astha)
